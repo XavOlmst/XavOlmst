@@ -3,6 +3,9 @@
 I have bachelor degree in Game Programming from Champlain College, which taught me skills in collaboration, networking, and low-level C++ programming.  
 
 
+![](https://raw.githubusercontent.com/XavOlmst/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/XavOlmst/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 <!--
 **XavOlmst/XavOlmst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
