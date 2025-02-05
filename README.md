@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### I'm Xavier Olmstead, an aspiring Game Physics Programmer based in Vermont, USA! 
-I have bachelor degree in Game Programming from Champlain College, which taught me skills in collaboration, networking, and low-level C++ programming.  
+I have a bachelor degree in Game Programming from Champlain College, which taught me skills in collaboration, networking, and low-level C++ programming.  
 
 
 ![](https://raw.githubusercontent.com/XavOlmst/github-stats/master/generated/overview.svg)
