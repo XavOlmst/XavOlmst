@@ -1,4 +1,6 @@
 ## Hi there 👋
+# I'm Xavier Olmstead, an aspiring Game Physics Programmer! 
+
 
 <!--
 **XavOlmst/XavOlmst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
