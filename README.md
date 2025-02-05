@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I'm Xavier Olmstead, an aspiring Game Physics Programmer! 
+### I'm Xavier Olmstead, an aspiring Game Physics Programmer! 
 
 
 <!--
