@@ -1,5 +1,6 @@
 ## Hi there 👋
-### I'm Xavier Olmstead, an aspiring Game Physics Programmer! I have bachelor degree in Game Programming from Champlain College, which taught me skills in collaboration, networking, and low-level C++ programming.  
+### I'm Xavier Olmstead, an aspiring Game Physics Programmer! 
+I have bachelor degree in Game Programming from Champlain College, which taught me skills in collaboration, networking, and low-level C++ programming.  
 
 
 <!--
